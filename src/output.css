@@ -222,6 +222,9 @@
   .left-\[1200px\] {
     left: 1200px;
   }
+  .m-auto {
+    margin: auto;
+  }
   .mt-20 {
     margin-top: calc(var(--spacing) * 20);
   }
@@ -233,6 +236,9 @@
   }
   .table {
     display: table;
+  }
+  .h-24 {
+    height: calc(var(--spacing) * 24);
   }
   .h-\[30\] {
     height: 30;
@@ -261,11 +267,17 @@
   .h-\[70px\] {
     height: 70px;
   }
+  .h-\[96px\] {
+    height: 96px;
+  }
   .h-\[400px\] {
     height: 400px;
   }
   .h-\[500px\] {
     height: 500px;
+  }
+  .w-\[8\] {
+    width: 8;
   }
   .w-\[72px\] {
     width: 72px;
@@ -284,6 +296,12 @@
   }
   .w-\[448px\] {
     width: 448px;
+  }
+  .w-\[876\] {
+    width: 876;
+  }
+  .w-\[876px\] {
+    width: 876px;
   }
   .w-full {
     width: 100%;
