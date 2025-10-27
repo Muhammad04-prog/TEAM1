@@ -282,6 +282,9 @@
   .h-24 {
     height: calc(var(--spacing) * 24);
   }
+  .h-\[0px\] {
+    height: 0px;
+  }
   .h-\[30\] {
     height: 30;
   }
@@ -326,6 +329,9 @@
   }
   .h-\[409px\] {
     height: 409px;
+  }
+  .h-\[460px\] {
+    height: 460px;
   }
   .h-\[497px\] {
     height: 497px;
@@ -500,6 +506,9 @@
   .pt-10 {
     padding-top: calc(var(--spacing) * 10);
   }
+  .pt-\[30px\] {
+    padding-top: 30px;
+  }
   .pt-\[40px\] {
     padding-top: 40px;
   }
@@ -524,6 +533,9 @@
   }
   .text-green-400 {
     color: var(--color-green-400);
+  }
+  .text-green-500 {
+    color: var(--color-green-500);
   }
   .text-white {
     color: var(--color-white);
